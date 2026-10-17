@@ -1,0 +1,12 @@
+{
+  "version": "1.6",
+  "note": "Estrutura preparada para futuros modelos GLB/GLTF opcionais. O app atual já funciona sem esses arquivos usando geração procedural embutida.",
+  "styles": [
+    "cat",
+    "natural",
+    "classic",
+    "sculpted",
+    "catpiece",
+    "classic2d"
+  ]
+}
