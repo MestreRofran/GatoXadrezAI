@@ -1,0 +1,32 @@
+{
+  "id": "./",
+  "name": "GatoXadrezAI",
+  "short_name": "GatoXadrezAI",
+  "description": "Jogue xadrez no reino dos felinos com gatos 3D, partidas locais e computador.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0d1228",
+  "theme_color": "#0d1228",
+  "lang": "pt-BR",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
