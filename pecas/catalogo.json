@@ -1,0 +1,30 @@
+{
+  "version": "1.19",
+  "collections": [
+    {
+      "id": "human",
+      "name": "Servos Humanos",
+      "type": "legacy-human",
+      "path": "servos-humanos/"
+    },
+    {
+      "id": "sculpted",
+      "name": "Peças Esculpidas",
+      "type": "legacy-sculpted",
+      "path": "pecas-esculpidas/"
+    },
+    {
+      "id": "calicat3mf",
+      "name": "Gatinho Impresso em 3D",
+      "type": "glb",
+      "path": "calicat.glb",
+      "animation": "hop"
+    },
+    {
+      "id": "cartoon2d",
+      "name": "Gatinhos Reino 2D",
+      "type": "sprite2d",
+      "path": "gatinhos-reino-2d.png"
+    }
+  ]
+}
